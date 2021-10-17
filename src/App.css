@@ -24,7 +24,7 @@
   align-items: center;
   justify-content: space-between;
   border-bottom: 2px solid var(--primary-color);
-  padding: 0 7%;
+  padding: 10px 7%;
 }
 .navbar .logo h2 {
   font-family: "IM Fell English SC", serif;
